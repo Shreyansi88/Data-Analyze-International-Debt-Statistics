@@ -19,4 +19,4 @@ The data used in this project is provided by The World Bank.
 8. The most common debt indicator
 9. Other viable debt issues and conclusion
 
-[REPORT] ( https://github.com/Shreyansi88/Data-Analyze-International-Debt-Statistics/blob/main/Project%20Report.pdf)
+[REPORT] (https://github.com/Shreyansi88/Data-Analyze-International-Debt-Statistics/blob/main/Project%20Report.pdf)
