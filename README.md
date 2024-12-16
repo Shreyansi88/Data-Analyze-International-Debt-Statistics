@@ -18,3 +18,5 @@ The data used in this project is provided by The World Bank.
 7. The highest amount of principal repayments
 8. The most common debt indicator
 9. Other viable debt issues and conclusion
+
+[REPORT] ( https://github.com/Shreyansi88/Data-Analyze-International-Debt-Statistics/blob/main/Project%20Report.pdf)
